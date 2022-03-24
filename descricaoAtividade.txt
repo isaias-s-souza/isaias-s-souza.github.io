@@ -1,0 +1,37 @@
+Nesta atividade você deverá criar uma página HTML com um conteúdo qualquer, dentro das seguintes características:
+
+    1)Logo abaixo da tag de abertura <body>, adicione um título principal para o documento. (ok)
+
+    2)Isso deve estar dentro da tag de abertura <h1>e da tag de fechamento </h1> .(ok)
+
+    3)Adicione um parágrafo (dentro das tags de abertura <p> e fechamento </p>) e edite 
+    seu conteúdo para incluir algum texto sobre um assunto do seu interesse.(ok)
+
+    4)Faça com que todas as palavras importantes sejam destacadas em negrito, colocando-as 
+    dentro da tag de abertura <strong> e da tag de fechamento </strong>.(ok)
+
+    6)Adicione um link ao seu parágrafo(<a> e </a>), conforme explicado anteriormente, 
+    com os atributos necessários.(ok)
+
+    7)Adicione uma imagem (<img> e </img>) ao seu documento, abaixo do parágrafo, adicionando
+    os atributos correspondentes.(ok)
+
+    8)Salve a página como com o nome index.html(ok)
+
+    9)Insira um favicon na página construída(ok)
+
+    10)Insira metadados para SEO(ok)
+
+    11)Insira metadados para compartilhamento no facebook e twitter.()
+
+    12)Por fim, acesse o documento compartilhado a seguir e selecione uma tag desconhecida para 
+    utilizar em sua página, de forma contextualizada. Explore e procure utilizar os atributos
+    da tag selecionada. Cada tag poderá ser selecionada por até 2 grupos. https://docs.google.
+    com/document/d/1EgrRz9iV5DB3SEbiDJw0gmlz608eAwAztNau7 ()
+    wLgp0c/edit?usp=sharing
+    
+    13)Após concluir, envie o arquivo HTML nesta tarefa. ()
+
+A atividade pode ser realizada em dupla e será avaliada (0,5 ponto). A atividade deve ser enviada até 26/03 (sábado), as 23 horas. 
+
+Bom trabalho a todos!
