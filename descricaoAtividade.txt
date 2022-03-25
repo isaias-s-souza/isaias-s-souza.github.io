@@ -22,7 +22,7 @@ Nesta atividade você deverá criar uma página HTML com um conteúdo qualquer, 
 
     10)Insira metadados para SEO(ok)
 
-    11)Insira metadados para compartilhamento no facebook e twitter.()
+    11)Insira metadados para compartilhamento no facebook e twitter.(ok)
 
     12)Por fim, acesse o documento compartilhado a seguir e selecione uma tag desconhecida para 
     utilizar em sua página, de forma contextualizada. Explore e procure utilizar os atributos
