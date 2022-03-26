@@ -1,3 +1,7 @@
+Link para compartilhamento dos metadados no twitter e no facebook:
+https://isaias-s-souza.github.io/
+
+
 Nesta atividade você deverá criar uma página HTML com um conteúdo qualquer, dentro das seguintes características:
 
     1)Logo abaixo da tag de abertura <body>, adicione um título principal para o documento. (ok)
